@@ -2,7 +2,6 @@
 
 NetOptimize is a modern, AI-driven network management and optimization platform built with React and TypeScript. It provides real-time monitoring, intelligent analysis, and automated optimization for enterprise network infrastructure.
 
-![Network Management Dashboard](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ## Features
 
